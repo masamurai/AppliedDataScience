@@ -1,5 +1,4 @@
-,,,,,,CO2 (MtCO2) proximity mileage brackets (to top 20),,,,,,,,,,,,,,,,,,,,,
-Key,Country,Group,Year,Ave Temperature,CO2 (MtCO2),1000,2000,3000,4000,5000,6000,7000,8000,9000,10000,11000,12000,13000,Population,GDP-USD (M US$ (2010)),Smoking Rate,Fertility Rate,Electricity production from Fossil Fuel,Electricity from Nuclear,Govt spend on education as % of GDP,Forest area (sq km),Passenger Road Transport M per km
+Key,Country,Group,Year,AveTemperature,CO2,CO2prox1000,CO2prox2000,CO2prox3000,CO2prox4000,CO2prox5000,CO2prox6000,CO2prox7000,CO2prox8000,CO2prox9000,CO2prox10000,CO2prox11000,CO2prox12000,CO2prox13000,Population,GDP,SmokingRate,FertilityRate,ElecFossi,ElecNuclear,EduSpend,ForestArea,RoadTrans
 1960Bahamas,Bahamas,Rest,1960,25.16725,0.4104,0.4104,2912.3927,189.5314,46.324,1668.8861,308.8715,908.3798,370.3461,900.5709,0,109.5206,0,0,109528,,,4.495,,,,,
 1960Cape Verde,Cape Verde,Rest,1960,23.97316667,0.022,0.022,0,1010.4104,1030.478,2983.2325,243.9088,1012.0563,780.0876,245.1289,21.3904,88.1302,0,0,202310,,,6.885,,,,,
 1960Congo Dem Republic,Congo Dem Republic,Rest,1960,23.76733333,2.3193,2.3193,97.8581,2.6747,1435.427,704.3051,826.4116,912.9634,3380.8058,54.3774,0,0,0,0,15248251,27434.3992,,6.001,,,,,
