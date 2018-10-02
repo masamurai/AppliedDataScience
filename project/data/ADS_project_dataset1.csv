@@ -1,5 +1,4 @@
-,,,,,,CO2 (MtCO2) proximity mileage brackets (to top 20),,,,,,,,,,,,
-Key,Country,Group,Year,Ave Temperature,CO2 (MtCO2),1000,2000,3000,4000,5000,6000,7000,8000,9000,10000,11000,12000,13000
+Key,Country,Group,Year,Ave Temperature,CO2 (MtCO2),prox1000,prox2000,prox3000,prox4000,prox5000,prox6000,prox7000,prox8000,prox9000,prox10000,prox11000,prox12000,prox13000
 1900Afghanistan,Afghanistan,Rest,1900,13.74933333,,,14.0881,109.6323,890.8942,0,12.4979,20.6247,662.737,1.0003,0,0,0,0
 1900Albania,Albania,Rest,1900,13.06858333,,534.2881,419.7405,0,59.3769,2.3303,683.3617,2.2094,0,10.1676,0,0,0,0
 1900Algeria,Algeria,Rest,1900,22.86416667,0,,952.9917,1.0369,0,61.7072,683.3617,1.0003,1.2091,0,10.1676,0,0,0
